@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Prashansa-Evangeline/static/css/main.e86aa5e3.css",
-    "main.js": "/Prashansa-Evangeline/static/js/main.693d145f.js",
-    "static/media/IMG_3177.JPG": "/Prashansa-Evangeline/static/media/IMG_3177.ed3e13de4f23dbe56804.JPG",
-    "static/media/IMG_1067.jpg": "/Prashansa-Evangeline/static/media/IMG_1067.eadd71e56236a1a6cd60.jpg",
-    "static/media/SJSU.jpg": "/Prashansa-Evangeline/static/media/SJSU.3ad0daa46f3b82476881.jpg",
-    "static/media/technology-gb0d033055_1920.jpg": "/Prashansa-Evangeline/static/media/technology-gb0d033055_1920.8594d8be12182c0cf260.jpg",
-    "static/media/SJSU_Seal.jpg": "/Prashansa-Evangeline/static/media/SJSU_Seal.fa0e5ec144f4ca51bb2d.jpg",
-    "static/media/1533471.jpg": "/Prashansa-Evangeline/static/media/1533471.7fcda8d956881a8ac4bc.jpg",
-    "static/media/Osmania_University_Logo.jpg": "/Prashansa-Evangeline/static/media/Osmania_University_Logo.82fef5b3d2bde629bc52.jpg",
-    "index.html": "/Prashansa-Evangeline/index.html",
-    "main.e86aa5e3.css.map": "/Prashansa-Evangeline/static/css/main.e86aa5e3.css.map",
-    "main.693d145f.js.map": "/Prashansa-Evangeline/static/js/main.693d145f.js.map"
+    "main.css": "/prashansa-evangeline/static/css/main.e86aa5e3.css",
+    "main.js": "/prashansa-evangeline/static/js/main.407972c4.js",
+    "static/media/IMG_3177.JPG": "/prashansa-evangeline/static/media/IMG_3177.ed3e13de4f23dbe56804.JPG",
+    "static/media/IMG_1067.jpg": "/prashansa-evangeline/static/media/IMG_1067.eadd71e56236a1a6cd60.jpg",
+    "static/media/SJSU.jpg": "/prashansa-evangeline/static/media/SJSU.3ad0daa46f3b82476881.jpg",
+    "static/media/technology-gb0d033055_1920.jpg": "/prashansa-evangeline/static/media/technology-gb0d033055_1920.8594d8be12182c0cf260.jpg",
+    "static/media/SJSU_Seal.jpg": "/prashansa-evangeline/static/media/SJSU_Seal.fa0e5ec144f4ca51bb2d.jpg",
+    "static/media/1533471.jpg": "/prashansa-evangeline/static/media/1533471.7fcda8d956881a8ac4bc.jpg",
+    "static/media/Osmania_University_Logo.jpg": "/prashansa-evangeline/static/media/Osmania_University_Logo.82fef5b3d2bde629bc52.jpg",
+    "index.html": "/prashansa-evangeline/index.html",
+    "main.e86aa5e3.css.map": "/prashansa-evangeline/static/css/main.e86aa5e3.css.map",
+    "main.407972c4.js.map": "/prashansa-evangeline/static/js/main.407972c4.js.map"
   },
   "entrypoints": [
     "static/css/main.e86aa5e3.css",
-    "static/js/main.693d145f.js"
+    "static/js/main.407972c4.js"
   ]
 }
