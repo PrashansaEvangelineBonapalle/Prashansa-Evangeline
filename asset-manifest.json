@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Prashansa-Evangeline/static/css/main.e86aa5e3.css",
-    "main.js": "/Prashansa-Evangeline/static/js/main.28b88075.js",
+    "main.js": "/Prashansa-Evangeline/static/js/main.693d145f.js",
     "static/media/IMG_3177.JPG": "/Prashansa-Evangeline/static/media/IMG_3177.ed3e13de4f23dbe56804.JPG",
     "static/media/IMG_1067.jpg": "/Prashansa-Evangeline/static/media/IMG_1067.eadd71e56236a1a6cd60.jpg",
     "static/media/SJSU.jpg": "/Prashansa-Evangeline/static/media/SJSU.3ad0daa46f3b82476881.jpg",
@@ -11,10 +11,10 @@
     "static/media/Osmania_University_Logo.jpg": "/Prashansa-Evangeline/static/media/Osmania_University_Logo.82fef5b3d2bde629bc52.jpg",
     "index.html": "/Prashansa-Evangeline/index.html",
     "main.e86aa5e3.css.map": "/Prashansa-Evangeline/static/css/main.e86aa5e3.css.map",
-    "main.28b88075.js.map": "/Prashansa-Evangeline/static/js/main.28b88075.js.map"
+    "main.693d145f.js.map": "/Prashansa-Evangeline/static/js/main.693d145f.js.map"
   },
   "entrypoints": [
     "static/css/main.e86aa5e3.css",
-    "static/js/main.28b88075.js"
+    "static/js/main.693d145f.js"
   ]
 }
