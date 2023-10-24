@@ -9,7 +9,7 @@ import {Routes, Route} from "react-router-dom"
 function App() {
   return (
     <Routes>
-      <Route path="/" exact component = {<Home />} />
+      <Route path="/" element = {<Home />} />
       <Route path="/experiences" element = {<Experiences />} />
       <Route path="/about" element = {<About />} />
       <Route path="/contact" element = {<Contact />} />
