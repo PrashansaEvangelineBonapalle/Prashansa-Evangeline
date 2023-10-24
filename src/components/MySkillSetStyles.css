@@ -1,0 +1,125 @@
+.center-card {
+    margin: auto;
+    width: 50%;
+    padding-top: 2.5rem;
+}
+
+.skillset {
+    width: 100%;
+    padding: 0 0 6rem;
+    background: #000;
+}
+
+.skills-heading {
+    text-align: center;
+    padding: 4rem;
+}
+
+.skillset-container {
+    max-width: 1140px;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 40px;
+}
+
+.my-skills-container {
+    margin: auto;
+    display:grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 60px;
+    padding-bottom: 1rem;
+}
+
+.skills-card-front {
+    background-color: rgb(248, 217, 15);
+    border: 1px solid #fff;
+    border-radius: 2rem;
+    text-align: center;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.skills-card-back {
+    border: 1px solid #eee;
+    border-radius: 2rem;
+    color: #eee;
+    text-align: center;
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+}
+
+.skills-card-back:hover, .skills-card-front:hover {
+    background-color: #141414;
+}
+
+.skills-card-front:hover p {
+    padding: 10px 0;
+    color: #fff;
+}
+
+.skills-card-front:hover h4 {
+    color: #fff;
+    font-size: 1.4rem;
+    padding: 1rem;
+}
+
+.skills-card-front:hover span {
+    border-bottom: 1px solid #fff;
+    width: 10%;
+    margin: 1.5rem auto;
+    display: block;
+}
+
+.skills-card-back h4 {
+    font-size: 1.4rem;
+    padding: 1rem;
+}
+
+.skills-card-back p {
+    padding: 10px 0;
+    font-weight: 600;
+}
+
+.skills-card-front h4 {
+    color: #000;
+    font-size: 1.4rem;
+    padding: 1rem;
+}
+
+.skills-card-front p {
+    color: #000;
+    padding: 10px 0;
+    font-weight: 600;
+}
+
+.skills-card-front span {
+    border-bottom: 1px solid #000;
+    width: 10%;
+    margin: 1.5rem auto;
+    display: block;
+}
+
+.skills-card-back span {
+    border-bottom: 1px solid #eee;
+    width: 10%;
+    margin: 1.5rem auto;
+    display: block;
+}
+
+@media screen and (max-width: 1180px) {
+    .skillset-container {
+        max-width: 80%;
+        margin: auto;
+        grid-template-columns: 1fr;
+    }
+
+    .center-card {
+        margin: auto;
+        width: 80%;
+        padding-top: 2.5rem;
+    }
+    
+}

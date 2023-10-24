@@ -1,0 +1,164 @@
+.exp{
+    text-align: center;
+    width: 100%;
+    padding: 4rem;
+    background: #000;
+}
+
+.exp_container {
+    padding: 3rem;
+    margin: auto;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 40px;
+}
+
+.experience_frontend {
+    background-color: rgb(227, 199, 11);
+    border: 1px solid #eee;
+    border-radius: 2rem;
+    color: #eee;
+    padding: 1rem;
+    padding-top: 2rem;
+    text-align: center;
+    color: #000;
+}
+
+.experience_frontend:hover {
+    color: #fff;
+    background-color: #141414;
+}
+
+.experience_frontend:hover small {
+    background-color: #141414;
+    color: #fff;
+}
+
+.experience_frontend:hover .experience_details-icon {
+    background-color: #141414;
+    color: #fff;
+}
+
+.experience_frontend:hover h4 {
+    background-color: #141414;
+    color: #fff;
+}
+
+.experience_content {
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 2rem 1rem;
+}
+
+.experience_details {
+    padding: 1rem 2rem 1rem 5rem;
+    justify-content: left;
+    text-align: left;
+}
+
+.experience_details h4 {
+    color: #000;
+    display: inline-block;
+    justify-content: left;
+    padding-left: 1rem;
+}
+
+.experience_details-icon {
+    color: #000;
+    padding-top: 0.1rem;
+    display: inline-block;
+}
+
+.text-light {
+    padding-left: 2rem;
+    display: flex;
+    color: #000;
+}
+
+.experience_backend {
+    border: 1px solid #eee;
+    border-radius: 2rem;
+    color: #eee;
+    padding: 1rem;
+    padding-top: 2rem;
+    text-align: center;
+    color: #000;
+}
+
+.experience_backend h3 {
+    color: #fff;
+}
+
+.experience_content_bk {
+    text-align: center;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    padding: 2rem 1rem;
+}
+
+.experience_details_bk {
+    padding: 1rem 2rem 1rem 5rem;
+    justify-content: left;
+    text-align: left;
+}
+
+.experience_details_bk h4 {
+    color: #fff;
+    display: inline-block;
+    justify-content: left;
+    padding-left: 1rem;
+}
+
+.experience_details-icon_bk {
+    color: #fff;
+    padding-top: 0.1rem;
+    display: inline-block;
+}
+
+.text-light_bk {
+    padding-left: 2rem;
+    display: flex;
+    color: #fff;
+}
+
+.experience_backend:hover {
+    background-color: #141414;
+}
+
+@media screen and (max-width: 1180px) {
+    .exp_container {
+        padding: 4rem 0 4rem 0;
+        margin: auto;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+
+    .exp{
+        text-align: center;
+        width: 100%;
+        padding: 1rem;
+        background: #000;
+    }
+
+    .experience_content_bk {
+        text-align: center;
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        padding: 2rem 0;
+    }
+
+    .experience_details h4 {
+        color: #000;
+        display: inline-block;
+        justify-content: left;
+        padding-left: 0;
+    }
+
+    .experience_details {
+        padding: 1rem;
+        justify-content: left;
+        text-align: left;
+    }
+    
+}
